@@ -1,0 +1,40 @@
+#ejemplo1 {
+    color: blue;
+    font-weight: bold;
+}
+
+#ejemplo2 {
+    color: green;
+    font-style: italic;
+}
+
+.comun {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0;
+    color: red;
+}
+
+#contenido-1 {
+    background-color: rgb(106, 137, 239);
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 500px;
+}
+
+.parrafo-contenido-1 {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.titulo-contenido-1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+    'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-bottom: 10px;
+    align-self: center;
+}
